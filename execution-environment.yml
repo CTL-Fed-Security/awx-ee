@@ -48,8 +48,8 @@ dependencies:
     python-unversioned-command [platform:rpm]
     unzip [platform:rpm]
     python3-netaddr [platform: rpm]
-    python3-ntplib[platform:rpm]
-    python3-passlib[platform:rpm]
+    python3-ntplib [platform:rpm]
+    python3-passlib [platform:rpm]
     sudo [platform:rpm]
   python: |
     git+https://github.com/ansible/ansible-sign
