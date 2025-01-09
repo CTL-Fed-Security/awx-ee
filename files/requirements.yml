@@ -1,0 +1,40 @@
+---
+collections:
+  - name: awx.awx
+    version: "22.6.0"
+  - name: amazon.aws
+    version: "2.2.0"
+  - name: google.cloud
+    version: "1.0.2"
+  - name: community.vmware
+    version: "4.0.1"
+  - name: kubernetes.core
+  - name: ansible.posix
+    version: "1.3.0"
+  - name: ansible.windows
+    version: "1.9.0"
+  - name: community.zabbix
+    version: "3.2.0"
+  - name: community.general
+    version: "8.1.0"
+  - name: junipernetworks.junos
+    version: "2.10.0"
+  - name: community.mongodb
+    version: "1.6.1"
+  - name: community.kubernetes
+  - name: ansible.netcommon
+    version: "5.3.0"
+  - name: community.postgresql
+    version: "3.9.1"
+  - name: community.docker
+    version: "4.1.0"
+  - name: community.aws
+    version: "2.4.0"
+  - name: community.grafana
+    version: "1.4.0"
+  - name: community.windows
+    version: "1.9.0"
+  - name: community.crypto
+    version: "2.2.4"
+  - name: dellemc.openmanage
+    version: "5.5.0"
